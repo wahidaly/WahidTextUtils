@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WahidTextUtils/static/css/main.f855e6bc.css",
+    "main.js": "/WahidTextUtils/static/js/main.2119820a.js",
+    "static/js/453.96453769.chunk.js": "/WahidTextUtils/static/js/453.96453769.chunk.js",
+    "index.html": "/WahidTextUtils/index.html",
+    "main.f855e6bc.css.map": "/WahidTextUtils/static/css/main.f855e6bc.css.map",
+    "main.2119820a.js.map": "/WahidTextUtils/static/js/main.2119820a.js.map",
+    "453.96453769.chunk.js.map": "/WahidTextUtils/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2119820a.js"
+  ]
+}
