@@ -46,7 +46,7 @@ function App() {
               element={ */}
                 <Textforms
                   showAlert={showAlert}
-                  heading="Enter Text to analyze"
+                  heading="Enter Text to analyse"
                   mode={mode}
                 />
               {/* }
